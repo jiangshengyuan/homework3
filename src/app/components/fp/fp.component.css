@@ -1,0 +1,128 @@
+#fp_head {
+    width: 100%;
+    background-color: dodgerblue;
+    text-align: center;
+}
+
+#fp_logo {
+    width: 100%;
+    background-color: rgb(104, 176, 248);
+    text-align: center;
+}
+
+#fp_description {
+    text-align: center;
+}
+
+.fp_description_head {
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 10px;
+    color: rgb(41, 40, 40);
+}
+
+.fp_description_content {
+    font-size: 15px;
+    font-weight: 400;
+    color: rgb(95, 93, 93);
+}
+
+#choice {
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    padding: 0%;
+}
+
+.liFirst {
+    margin-left: 0%;
+}
+
+ul li {
+    margin-left: 6px;
+}
+
+li img {
+    height: 83px;
+    width: 83px;
+}
+
+#btn {
+    text-align: center;
+    height: 100px;
+    margin-top: 20px;
+}
+
+.btn_nextstep {
+    width: 100%;
+    font-size: 25px;
+    font-weight: 400;
+    background-color: #0B2161;
+    color: #ffffff;
+    border-radius: 5px;
+    border: 0px;
+    height: 60px;
+}
+
+#tips {
+    text-align: center;
+    margin-top: 40px;
+    height: 150px;
+}
+
+.tips_head {
+    font-size: 15px;
+    color: rgb(61, 60, 60);
+}
+
+.tips_content {
+    font-size: 12px;
+    color: rgb(61, 60, 60);
+}
+
+#bottom {
+    background-color: #0051ff;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#bottom_margin_top {
+    color: #ffffff;
+    text-decoration: underline;
+    padding-top: 50px;
+}
+
+.bottom_href {
+    color: #ffffff;
+    text-decoration: underline;
+    line-height: 30px;
+}
+
+#bottom_dowm {
+    margin-top: 50px;
+}
+
+#bottom_font {
+    margin-top: 0%;
+}
+
+.bottom_dowm_head {
+    font-size: 20px;
+    text-decoration:none;
+    color: #ffffff;
+}
+
+#bottom_logos {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#bottom_logos img {
+    width: 40px;
+    height: 40px;
+    margin-left: 10px;
+    padding-bottom: 50px;
+}
